@@ -1,2 +1,5 @@
 # LeetCode-problems
-LeetCode problems
+
+断梗浮萍, 几遭寥落. 前路茫茫, 钱途缈缈.
+
+妄想刷题, 碌碌无为. 羸弱菜逼, 磕磕绊绊.

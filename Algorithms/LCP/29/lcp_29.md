@@ -110,7 +110,7 @@ c &= \begin{cases}
 得到最终表达式如下
 
 $$\begin{aligned}
-f(x, y) &= 4na - 4a^2 - 2a + b(x+y) + (b \ll 1\&1)(4n-4a-4) \\
+f(x, y) &= 4na - 4a^2 - 2a + b(x+y) + (b \gg 1\&1)(4n-4a-4) \\
 a &= \begin{cases}
         min(x, n-1-y) &y>=x \\
         min(y, n-1-x) &y<x
